@@ -1,2 +1,2 @@
 # Dobrovolskiy_qa
-Проверка
+Proverka
